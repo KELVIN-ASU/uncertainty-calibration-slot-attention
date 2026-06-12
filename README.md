@@ -520,7 +520,7 @@ If you use this work in your research, please cite the thesis:
 }
 ```
 
-Replace `XXXX.XXXXX` with the arXiv identifier after the thesis is uploaded.
+`XXXX.XXXXX`will be replaced with the arXiv identifier after the thesis is uploaded.
 
 If you use the Causal3DIdent dataset, please also cite:
 
