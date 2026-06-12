@@ -1,5 +1,5 @@
 ````markdown
-# Uncertainty Calibration for Slot-Attention-Based Generative Factor Prediction
+## Uncertainty Calibration for Slot-Attention-Based Generative Factor Prediction
 
 Empirical study of uncertainty calibration for Slot Attention-based generative factor prediction on the Causal3DIdent dataset.
 
