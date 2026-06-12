@@ -1,0 +1,11 @@
+seed,model,epoch,train_loss,val_loss,val_nll,best_val,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag
+46,MeanPoolLinear_NLL,1,0.09717821777944421,-0.137868190757812,-0.137868190757812,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,2,-0.2269608809392919,-0.28598106611342655,-0.28598106611342655,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,3,-0.3167567540455537,-0.34019546518250116,-0.34019546518250116,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,4,-0.3612977895913301,-0.3765520912124997,-0.3765520912124997,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,5,-0.39380576356378183,-0.40312193677538916,-0.40312193677538916,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,6,-0.41562076636933354,-0.41959939703108773,-0.41959939703108773,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,7,-0.42885695354227876,-0.4293978608600677,-0.4293978608600677,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,8,-0.43710966760729564,-0.43610936257574295,-0.43610936257574295,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,9,-0.44249328416701555,-0.44013726075490317,-0.44013726075490317,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL
+46,MeanPoolLinear_NLL,10,-0.44610228885628767,-0.4433217716784704,-0.4433217716784704,-0.4433217716784704,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed46,meanpool_linear,MeanPoolLinear,nll,NLL

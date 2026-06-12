@@ -1,0 +1,11 @@
+seed,model,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag,factor,slot_0,slot_1,slot_2,slot_3
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f0,0.052694216,0.06315356,0.08419041,0.7999606
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f1,0.24614252,0.1830267,0.17201221,0.39881644
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f2,0.53149056,0.19961956,0.12845512,0.14043473
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f3,0.26218966,0.29303887,0.2883579,0.15641396
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f4,0.28635678,0.2840464,0.2729821,0.15661423
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f5,0.2564022,0.2957847,0.2937694,0.1540458
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f6,0.11602453,0.14672878,0.18096855,0.5562793
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f7,0.27766147,0.38668057,0.32667178,0.008985725
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f8,0.32586426,0.27170652,0.23780382,0.16462606
+45,FactorQuery_NLL,FactorQuery_NLL,FactorQuery_NLL_seed45,factorquery,FactorQuery,nll,NLL,f9,0.12753434,0.26480448,0.363285,0.2443755

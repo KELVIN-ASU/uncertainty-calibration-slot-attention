@@ -1,0 +1,11 @@
+seed,model,epoch,train_loss,val_loss,val_nll,best_val,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag
+47,MeanPoolLinear_NLL,1,0.09424898652645645,-0.13567107578118642,-0.13567107578118642,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,2,-0.22615379119676257,-0.2815346179311238,-0.2815346179311238,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,3,-0.3152100253357458,-0.33762880972453524,-0.33762880972453524,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,4,-0.3604041140146777,-0.37502958797273184,-0.37502958797273184,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,5,-0.3928022839636189,-0.4015366331357805,-0.4015366331357805,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,6,-0.414647717360256,-0.4185137768964919,-0.4185137768964919,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,7,-0.4280572785839202,-0.42905199425561086,-0.42905199425561086,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,8,-0.4363972944851695,-0.4358717529357426,-0.4358717529357426,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,9,-0.44189605692076306,-0.4399468535279471,-0.4399468535279471,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL
+47,MeanPoolLinear_NLL,10,-0.44548059938866413,-0.4426907918377528,-0.4426907918377528,-0.4426907918377528,MeanPoolLinear_NLL,MeanPoolLinear_NLL_seed47,meanpool_linear,MeanPoolLinear,nll,NLL

@@ -1,0 +1,11 @@
+seed,model,epoch,train_loss,val_loss,val_nll,best_val,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag
+46,MeanPoolLinear_RESVAR,1,0.5712364013937204,0.21550492510909125,-0.09711434595168583,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,2,0.08331113806248985,-0.005476029399146755,-0.2609470488154699,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,3,-0.04720164433151247,-0.0814547468887435,-0.3185295819479322,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,4,-0.10561143155030683,-0.12519154950266792,-0.3528359824513632,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,5,-0.14363645419872628,-0.1571487316063472,-0.3783735273944007,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,6,-0.17202545519333456,-0.1807261888375358,-0.3984789634886242,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,7,-0.19325915832683524,-0.19844356818804665,-0.4131028809623113,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,8,-0.20842011278689013,-0.21020509828650763,-0.42288804542450675,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,9,-0.21854501031273466,-0.21785820046114543,-0.4296275630262163,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR
+46,MeanPoolLinear_RESVAR,10,-0.22527482676653215,-0.22354365249474845,-0.4341662849320306,-0.4341662849320306,MeanPoolLinear_RESVAR,MeanPoolLinear_RESVAR_seed46,meanpool_linear,MeanPoolLinear,residual_variance_reg,RESVAR

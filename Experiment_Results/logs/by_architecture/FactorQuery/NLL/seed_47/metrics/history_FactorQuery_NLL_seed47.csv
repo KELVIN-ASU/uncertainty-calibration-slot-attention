@@ -1,0 +1,11 @@
+seed,model,epoch,train_loss,val_loss,val_nll,best_val,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag
+47,FactorQuery_NLL,1,0.1345709197650248,-0.2345308663258477,-0.2345308663258477,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,2,-0.3895380559610942,-0.48206040117475724,-0.48206040117475724,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,3,-0.5169913513551103,-0.4905219783480205,-0.4905219783480205,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,4,-0.5685771716671225,-0.6008271492095221,-0.6008271492095221,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,5,-0.6031967592449625,-0.6492182879977756,-0.6492182879977756,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,6,-0.6518651938816857,-0.6329070403462365,-0.6329070403462365,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,7,-0.7159550689221269,-0.7587426984877813,-0.7587426984877813,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,8,-0.7443788675025658,-0.7644919477568732,-0.7644919477568732,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,9,-0.7686015668789966,-0.7643410451828487,-0.7643410451828487,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL
+47,FactorQuery_NLL,10,-0.7839108850758332,-0.8104761127063206,-0.8104761127063206,-0.8104761127063206,FactorQuery_NLL,FactorQuery_NLL_seed47,factorquery,FactorQuery,nll,NLL

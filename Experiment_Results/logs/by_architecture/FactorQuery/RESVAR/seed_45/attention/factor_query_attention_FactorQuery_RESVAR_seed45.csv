@@ -1,0 +1,11 @@
+seed,model,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag,factor,slot_0,slot_1,slot_2,slot_3
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f0,0.096172206,0.1708913,0.20733279,0.52560544
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f1,0.26279938,0.10433099,0.0891753,0.5436943
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f2,0.24626794,0.32818383,0.33028004,0.095270365
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f3,0.20944136,0.3417062,0.35861176,0.09024092
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f4,0.20617133,0.33906382,0.36610255,0.08866095
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f5,0.20573004,0.3384885,0.36701137,0.08876911
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f6,0.14235519,0.15075818,0.17148252,0.535404
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f7,0.548356,0.19021472,0.13881053,0.1226207
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f8,0.28390974,0.31131685,0.3057729,0.09900097
+45,FactorQuery_RESVAR,FactorQuery_RESVAR,FactorQuery_RESVAR_seed45,factorquery,FactorQuery,residual_variance_reg,RESVAR,f9,0.17976375,0.27835584,0.3141809,0.22769797

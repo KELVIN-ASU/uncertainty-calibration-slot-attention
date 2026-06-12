@@ -1,0 +1,11 @@
+seed,model,epoch,train_loss,val_loss,val_nll,best_val,experiment_name,run_id,architecture,architecture_tag,loss_mode,loss_tag
+47,FactorQuery_RESVAR,1,0.6351820105090211,0.021827375042060063,-0.22772802301815578,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,2,-0.15455116624196555,-0.26773471003487,-0.4465872264286828,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,3,-0.31275254985642814,-0.35263847019937306,-0.5123296253264896,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,4,-0.4022439649475104,-0.43945851657125684,-0.5885105680662488,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,5,-0.44966536376842114,-0.49757702496316697,-0.6398130553487748,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,6,-0.5103708506934016,-0.5226163736979167,-0.6548765300947522,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,7,-0.5468885339084336,-0.5687512901472667,-0.6906890479723612,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,8,-0.5795871137100973,-0.5674230672064282,-0.6944117532836066,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,9,-0.6120782404770085,-0.6395571711328295,-0.7571275938503326,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
+47,FactorQuery_RESVAR,10,-0.6637874374860598,-0.6734104940247914,-0.7882823095624409,-0.7882823095624409,FactorQuery_RESVAR,FactorQuery_RESVAR_seed47,factorquery,FactorQuery,residual_variance_reg,RESVAR
