@@ -1,4 +1,4 @@
-````markdown
+
 ## Uncertainty Calibration for Slot-Attention-Based Generative Factor Prediction
 
 Empirical study of uncertainty calibration for Slot Attention-based generative factor prediction on the Causal3DIdent dataset.
@@ -545,4 +545,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 * The original license notice should be preserved.
 
 ```
-```
+
