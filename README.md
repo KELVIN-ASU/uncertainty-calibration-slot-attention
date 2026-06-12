@@ -527,7 +527,7 @@ If you use the Causal3DIdent dataset, please also cite:
 ```bibtex
 @inproceedings{vonkugelgen2021self,
   title={Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style},
-  author={von K{\"u}gelgen, Julius and Sharma, Yash and Gresele, Luigi and Brendel, Wieland and Sch{\"o}lkopf, Bernhard and Besserve, Michel and Locatello, Francesco},
+  author={von Kügelgen, Julius and Sharma, Yash and Gresele, Luigi and Brendel, Wieland and Schölkopf, Bernhard and Besserve, Michel and Locatello, Francesco},
   booktitle={Advances in Neural Information Processing Systems},
   year={2021}
 }
